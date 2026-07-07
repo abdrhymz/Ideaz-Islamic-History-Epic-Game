@@ -61,55 +61,97 @@ Before we jump into Unity or Unreal Engine, we need to build a rock-solid founda
 
 The following is the proposed single-player campaign structure for **[Project Name]**. The narrative follows the Ummah’s elite vanguard—a brotherhood of cybernetically enhanced Janissaries and Fedayeen—as they push back against an aggressive, totalitarian alien empire threatening the galactic frontiers of faith and knowledge. 
 
+---
+
 ### Level 1: The Crescent’s Breach
 * **Environment:** Zero-Gravity, interior of a burning Alien Dreadnought.
 * **Gameplay Focus:** Movement tutorials, zero-g melee combat, hull breaching.
 * **Storyline:** The campaign opens in the heat of a massive orbital blockade. An alien tyrant’s flagship has disabled planetary defenses. You play as a Janissary Cyborg tasked with a suicidal zero-gravity boarding action. Using calligraphic boarding spires, your squad breaches the brutalist hull. You must navigate the disorienting, smoke-filled zero-G corridors using plasma scimitars to neutralize alien drones and sabotage the ship's hyper-drive, crippling the enemy fleet's spearhead.
+
+![](./gfx/1%20-%20The%20Zero-G%20Boarding%20Action%20The%20Crescent’s%20Breach.jpeg)
+
+---
 
 ### Level 2: The Siege of Al-Nur Prime
 * **Environment:** Sparkling red silica deserts, massive futuristic citadel exterior.
 * **Gameplay Focus:** Large-scale infantry combat, vehicle integration, squad commands.
 * **Storyline:** With the orbital blockade broken, the Ummah initiates a ground assault on the occupied world of Al-Nur Prime. You join thousands of Mujahideen Cyborg Infantry charging across sweeping red sand dunes. The objective is to reclaim the "An-Nur Citadel," a magnificent structure blending glass minarets and geodesic domes now held by enemy forces. You must coordinate with Buraq-class fighter mechs to break the outer defensive lines before the binary sun sets.
 
+![](./gfx/2%20The%20Siege%20of%20Al-Nur%20Prime%20Desert%20Jihad.jpeg)
+
+---
+
 ### Level 3: The Belt of Iman
 * **Environment:** Dark, rocky asteroid surface, heavily fortified trenches in the vacuum of space.
 * **Gameplay Focus:** Defensive holds, heavy weapon emplacement, surviving waves.
 * **Storyline:** The enemy launches a brutal counter-offensive on the Ummah’s primary supply line: a dense asteroid field known as the Belt of Iman. You are stationed in static trenches etched with protective Kufic verses. As endless swarms of alien interceptors and shock troops drop onto the asteroid, you must man Thuluth-inscribed railguns and plasma mortars. The objective is to hold the line and protect the hyperspace communication relays at all costs.
+
+![](./gfx/3%20Cyborg_soldiers_defending_astero…_202607072234.jpeg)
+
+---
+
 
 ### Level 4: The Cosmic Madrassa
 * **Environment:** The panoramic, hyper-advanced bridge of the Grand Ummah Flagship.
 * **Gameplay Focus:** Real-time strategy (RTS) elements, fleet command, tactical puzzles.
 * **Storyline:** A shift in perspective. You step into the role of the Cyborg Grand Vizier. The bridge is a marvel of Islamic futurism, with a central holographic Mihrab displaying the tactical theater. You must command the fleet via an intricate tactical map, redirecting Zulfiqar-class cruisers and managing planetary shields. The choices you make here will determine the starting resources and reinforcements available in the subsequent ground levels.
 
+![](./gfx/4.%20Fleet%20Command%20Bridge%20The%20Cosmic%20Madrassa.jpeg)
+
+---
+
 ### Level 5: Fedayeen Drop
 * **Environment:** Icy, storm-ravaged alien moon, dark and claustrophobic.
 * **Gameplay Focus:** High-speed descent mechanics, chaotic close-quarters combat, ambush tactics.
 * **Storyline:** Intelligence reveals a hidden enemy superweapon on an icy, hostile moon. The atmosphere is too turbulent for heavy ships, so the elite Fedayeen Shock Troops are deployed in Shahada-class drop pods. You experience the violently turbulent atmospheric entry in first-person before crashing through the ice. The moment the pod doors open, you are in immediate, brutal close-quarters combat against mechanical guardians in a blinding snowstorm.
+
+![](./gfx/5.%20The%20Drop%20Pod%20Vanguard%20Fedayeen%20Drop.jpeg)
+
+---
 
 ### Level 6: Breakthrough at Al-Andalus Prime
 * **Environment:** Ruined turquoise and gold fortress walls, molten slag, heavy urban warzone.
 * **Gameplay Focus:** Escort missions, heavy armor combat, utilizing destructible environments.
 * **Storyline:** The war reaches a critical turning point at Al-Andalus Prime. The enemy has retreated behind impregnable, brutalist walls that clash with the planet's historic turquoise tile architecture. A massive explosive charge has breached the main gate. You must escort the Crescent-tread main battle tanks through the molten rubble and chaotic urban streets, clearing out heavily entrenched snipers and anti-armor units to secure the planetary capital.
 
+![](./gfx/6.%20The%20Citadel%20Breach%20Al-Andalus%20Prime%20Falls.jpeg)
+
+---
+
 ### Level 7: The Burraq’s Dance
 * **Environment:** Inside the dense, colorful gas rings of a massive Jovian planet.
 * **Gameplay Focus:** Fast-paced starfighter flight simulator, dogfighting, evasive maneuvering.
 * **Storyline:** Taking to the stars, you pilot a sleek, crescent-winged Burraq-class fighter. An enemy drone swarm is attempting to flank the Ummah fleet by navigating through the treacherous rings of a gas giant. You must engage in high-speed, chaotic dogfights among massive, floating silica asteroids and blinding gas clouds. Your ship's calligraphic venting systems glow as you execute tight turns to protect the fleet's blind spot.
+
+![](./gfx/7.%20Zero-G%20Fighter%20Dogfight%20The%20Burraq’s%20Dance.jpeg)
+
+----
 
 ### Level 8: The Masha’Allah Battery
 * **Environment:** Stormy, mud-drenched battlefield under a dark Fajr (dawn) sky.
 * **Gameplay Focus:** Artillery defense, long-range targeting, resource management.
 * **Storyline:** The enemy’s final planetary stronghold is protected by a massive, shimmering void-shield. The Ummah deploys the colossal "Masha’Allah Quadrupedal Walker-Cannons" to break it. You play as the perimeter defense commander. While the walkers sequentially fire fusion bolts at the shield, you must defend their vulnerable legs from waves of fast-moving alien saboteurs in the driving rain and mud until the shield shatters.
 
+![](./gfx/8.%20Heavy%20Artillery%20Barrage%20The%20Masha’Allah%20Battery.jpeg)
+
+---
+
 ### Level 9: The Murabitun’s Shadow
 * **Environment:** Dark, neon-lit, industrial corridors of the enemy's central space station.
 * **Gameplay Focus:** Stealth, optical camouflage, hacking, non-lethal/silent takedowns.
 * **Storyline:** With the shield down, a direct assault is possible, but the enemy has armed an orbital bombardment array. You play as a Murabitun stealth operative equipped with adaptive chameleon plating. You must infiltrate the station silently. The gameplay shifts entirely to stealth—avoiding patrols, utilizing Kufic-script optical illusions to distract guards, and hacking terminals to disable the orbital cannons before the Ummah fleet arrives.
 
+![](./gfx/9.%20%20Stealth%20Infiltration%20The%20Murabitun’s%20Shadow.jpeg)
+
+---
+
 ### Level 10: The Final Stand at Al-Quds Outpost
 * **Environment:** Shattered observation deck, massive nebula backdrop, beautiful but desperate atmosphere.
 * **Gameplay Focus:** Ultimate test of skills, overwhelming odds, emotional narrative climax.
 * **Storyline:** The orbital cannons are disabled, but your stealth squad is discovered and cornered in the ruined observation deck of Al-Quds Outpost. Reinforcements are minutes away, but the enemy throws everything they have left at you. With armor severely damaged and weapons overheating, you must make a desperate last stand. Through the shattered geometric stained-glass windows, a cosmic nebula glows. You fight not just for survival, but for the future of the galaxy, holding the line until the screen fades to white as the Ummah fleet breaks through.
+
+
+![](./gfx/10%2010.%20The%20Final%20Stand%20Al-Quds%20Outpost.jpeg)
 
 ---
 
