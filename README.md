@@ -1,3 +1,6 @@
+
+![](./gfx/Title.jpeg)
+
 # 🌌 [Decide Project Name]: An Epic Islamic Sci-Fi Game
 
 *Bismillahi-r-Rahmani-r-Rahim* (In the name of Allah, the Most Gracious, the Most Merciful).
